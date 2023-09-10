@@ -1,8 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="your-profile-picture-url-here" alt="Your Name" width="200" height="200" />
-</p>
-
 <h1 align="center">Hi there, I'm V V Seetha Rama Rao 👋</h1>
 <h3 align="center">Passionate Data Scientist and AI/ML Engineer</h3>
 
@@ -10,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://twitter.com/your-twitter-handle"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter"></a>
-  <a href="mailto:your-email@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:akashay8179@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
 </p>
 
 <!-- About Me -->
@@ -32,15 +27,6 @@
 - **Tools**: Jupyter, Tableau, Google Cloud Platform
 - **Big Data**: Hadoop, MapReduce (Basic Knowledge)
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seetharamarao817&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seetharamarao817&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 <!-- Projects -->
 ## Projects
@@ -60,5 +46,5 @@ Feel free to connect with me on LinkedIn or reach out via email. I'm always open
 <!-- Optional: Fun Fact -->
 <details>
   <summary>Fun Fact</summary>
-  Did you know that I once trained a deep learning model to recognize rare bird species from photos? 🦉📸
+  Did you know that I once trained a Machine learning model to recognize human activity based on the sensor data? 🦉📸
 </details>
